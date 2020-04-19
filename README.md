@@ -83,7 +83,7 @@ c) Option 7) is for deleting tags recorded in a text file, by deleting the tag, 
 ## Test model
 - select '6' for '6) Predict class'
 - a simple GUI popped up to allow user to select a image file from the local disk  
-![gui-imgfile](/images/gui-imgfile.png)
+![gui-imgfile](/images/gui-imgfile.PNG)
 - the result will be a bar chart showing the top-5 probablities of the image classification  
 ![chart-prob](/images/chart-prob.png)
 
